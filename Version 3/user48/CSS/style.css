@@ -19,3 +19,13 @@ th {
 	color: #ffffff;
 	background-color: #003366;
 }
+
+body {
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c4a72ebc-13ba-41c6-98a4-fbf9e684cdc9/dcc134d-3eaf5b3b-80bf-4302-b205-57b4d358bf5d.jpg/v1/fill/w_1024,h_577,q_75,strp/bfb_background_1_by_theodysseyedits_dcc134d-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTc3IiwicGF0aCI6Ii9mL2M0YTcyZWJjLTEzYmEtNDFjNi05OGE0LWZiZjllNjg0Y2RjOS9kY2MxMzRkLTNlYWY1YjNiLTgwYmYtNDMwMi1iMjA1LTU3YjRkMzU4YmY1ZC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.O0PtPJXKgeeMPVXAlWkIkrwYrYV_2yPXQI2KCJLXLqk");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  min-height: 100vh;
+}
